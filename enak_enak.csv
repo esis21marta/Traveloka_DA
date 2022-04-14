@@ -1,0 +1,12 @@
+Grade;Segment;Noa Population;Noa churn;Noa Approval Rate (%);Noa churn Rate (%);Noa churn Rate Cumulative (%);Amt Population;Amt churn;Amt Approval Rate (%);Amt churn Rate (%);Amt churn Rate Cumulative (%);;;
+A1;King Loyal;20601;545;10%;3%;3%;Rp59.306;Rp1.680;4%;3%;3%;;;
+A2;King Loyal;20601;2717;20%;13%;8%;Rp87.548;Rp11.130;10%;13%;9%;;;
+A3;Queen Loyal;20601;4749;30%;23%;13%;Rp117.045;Rp27.259;18%;23%;15%;;;Exclude loyal customer
+A4;Queen Loyal;20602;6608;40%;32%;18%;Rp141.976;Rp45.502;27%;32%;21%;;;Focus offerint to retain
+B1;focus on retain;20599;7895;50%;38%;22%;Rp153.378;Rp58.984;38%;38%;26%;;;Exclude not loyal customer
+B2;focus on retain;20612;9048;60%;44%;26%;Rp163.579;Rp72.351;49%;44%;30%;;;
+B3;focus on retain;20589;10274;70%;50%;29%;Rp176.830;Rp89.023;61%;50%;34%;;;
+C1;Not loyal;20696;11394;80%;55%;32%;Rp195.888;Rp108.132;74%;55%;38%;;;
+C2;Not loyal;20505;12414;90%;61%;35%;Rp203.151;Rp122.967;88%;61%;41%;;;
+C3;Not loyal;20601;16159;100%;78%;40%;Rp181.422;Rp141.132;100%;78%;46%;;;
+;;;;;;;;;;;;;;
